@@ -27,9 +27,8 @@
 
 ### Let's connect!
 <p>
-    <a href="https://linkedin.com/in/rizki-nugroho" target="blank"><img src="https://img.shields.io/badge/Rizki_Nugroho-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://linkedin.com/in/rizki-nugroho" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://instagram.com/rizkinugrohho" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white?" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://rizkinugrohho.github.io/MyWebsite/" target="blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://rizkinugrohho.github.io/MyWebsite/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 </p>
