@@ -30,6 +30,6 @@
 <p>
     <a href="https://linkedin.com/in/rizki-nugroho" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://instagram.com/rizkinugrohho" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white?" /></a>
-    <a href="https://rizkinugrohho.github.io/RizkiNugroho/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://rizkinugroho.netlify.app/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 </p>
