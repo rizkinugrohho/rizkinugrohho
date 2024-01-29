@@ -22,7 +22,7 @@
 
 ### Stats:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkinugrohho&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /><br>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkinugrohho&show_icons=true&bg_color=00000000)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkinugrohho&layout=compact" height=180 />
 </p>
 
